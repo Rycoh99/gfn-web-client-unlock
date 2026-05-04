@@ -6,6 +6,10 @@
 
 > made specially for Linux/macOS, and/or other Chromium-based browsers lacking official support from NVIDIA
 
+## installation
+
+* you can [click me](https://github.com/Rycoh99/gfn-web-client-unlock/raw/main/gfn-web-client-unlock.user.js) or copy the link to install it manually in your userscript manager extension
+
 ## info
 
 * NVIDIA, on the web client of GeForce NOW, seems to allow 2K/120FPS/10-bit-color only on Windows (not sure about macOS, untested), and only on "officially supported" browsers (Chrome, Microsoft Edge, etc?)
