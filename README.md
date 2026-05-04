@@ -2,7 +2,7 @@
 <p>
 </p>
 
-> this userscript unlocks access to 2K/120FPS on the GeForce NOW web client for operating systems other than Windows
+> this userscript unlocks access to 2K/120FPS/10-bit-color on the GeForce NOW web client for operating systems other than Windows
 > made specially for Linux/macOS, and/or other Chromium-based browsers lacking official support from NVIDIA
 
 ## info
